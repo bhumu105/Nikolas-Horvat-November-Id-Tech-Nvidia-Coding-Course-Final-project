@@ -1,5 +1,5 @@
 # Nikolas-Horvat-November-Id-Tech-Nvidia-Coding-Course-Final-project
- 
+ Image Classification Network for Motorcycles and Cars
 
  Add short description of project here > 
 
