@@ -3,7 +3,7 @@
 
  Add short description of project here > 
 
-![add image descrition here](direct image link here)
+![Image of a Car](Cover_Image.jpg)
 
 ## The Algorithm
 
