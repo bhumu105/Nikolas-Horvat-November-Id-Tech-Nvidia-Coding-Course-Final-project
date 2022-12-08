@@ -16,4 +16,4 @@ My algorithm will use an imag.net classification system to identify wether an ob
 3. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$NET/labels.txt input_image.jpg output_image.jpg
 
 
-[View a video explanation here](video link)
+In this video i will showcase my final trained model and how it works. I will showcase a single image and its accuracy. This video will showcase one singular image of my model.(https://youtu.be/8Ao-k30Z9Qo)
